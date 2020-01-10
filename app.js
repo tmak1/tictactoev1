@@ -187,6 +187,7 @@ var updateScoreGraphics = () => {
 var declareWinner = () => {
     winnerRoundDisplay.style.textTransform  = 'capitalize';
     winnerRoundDisplay.textContent = winner.name;
+    winnerRoundDisplay.classList.add('heartbeat');
     winner = null;
 }
 
