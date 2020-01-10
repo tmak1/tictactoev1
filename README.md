@@ -3,12 +3,14 @@ Check it out here: https://tmak1.github.io/tictactoev1/
 
 
 How it works
+
 Choose game mode
+  
   Computer Easy
   Computer Hard
   Play against a freind
   
-PLay against a friend mode:
+Play against a friend mode:
 
 The game starts with player 1 making the first move with character "X". Player 2 then makes the next move with character "O" and players repeatedly take turns until one player wins with three of their characters in a row.
 
