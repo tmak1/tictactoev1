@@ -5,20 +5,7 @@ html, body, .mainContainer {
     font-family: 'Helvetica';
 }
 
-.grp3 {
-    display: grid;
-    grid-template-columns: 0.1fr 1.8fr 0.1fr;
-    grid-gap: 10px;
-    padding: 10px;
-}
 
-img {
-    width: 100%;
-}
-
-.pr1profile, .pr2profile, .playername, .playerlevel {
-    margin-top: 50px;
-}
 
 .game-result, .winner-round {
     font-size: 30px;
